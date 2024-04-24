@@ -1,7 +1,7 @@
 # Image Slider
 
 ## Description
-This Image Slider project allows users to view images in a slideshow format. It's built using HTML, CSS, and JavaScript. The slider automatically cycles through images, and users can also manually navigate through them using navigation buttons.
+This Image Slider project allows users to view images in a slideshow format. It's built using HTML, CSS, and JavaScript. The slider cycles through images, and users can also manually navigate through them using navigation buttons.
 
 ## Features
 - Automatic and manual image transitions.
